@@ -1,0 +1,10 @@
+mat-form-field,
+textarea{
+    width: 100%;
+}
+/* input,
+textarea{
+    box-shadow:5px 5px #0074D9;
+    border: 1px solid #0074D9;
+    border-radius: 2px;
+} */
