@@ -26,6 +26,9 @@ export class PostListComponent implements OnInit,OnDestroy {
 
     constructor(public postsService: PostsService){}
 
+    onDelete(postId: string){
+        this.postsService.deletePost(postId);
+    }
 }
     // posts=[
     //     {title: 'First post', content:'This is content 1'},
