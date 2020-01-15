@@ -44,7 +44,7 @@ export class PostsService{
             this.posts.push(post);
             this.postsUpdated.next([...this.posts]);    
         });
-    }
+    } 
 
     deletePost(postId: string){
         this.http.delete("http://localhost:3000/api/posts/" + postId)
