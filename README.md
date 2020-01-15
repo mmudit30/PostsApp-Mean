@@ -9,10 +9,10 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 Run `npm run start:server` for a nodemon server using [server.js](server.js). Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 #### Node server (localhost:3000/api/posts)
-![alt](src/assets/localhost3000.jpg)
+![](src/assets/localhost3000.jpg)
 
 #### Angular frontend (localhost:4200)
-![alt](src/assets/localhost4200.png)
+![](src/assets/localhost4200.png)
 
 #### MongoDB Atlas Cloud Cluster
-![alt](src/assets/mongoDbAtlas.png)
+![](src/assets/mongoDbAtlas.png)
